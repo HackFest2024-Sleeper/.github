@@ -1,12 +1,12 @@
-## Hi there 👋
+# Sleeper
 
-<!--
+Welcome to the Sleeper App! This mobile application is designed to enhance your sleep experience and improve overall sleep quality. Whether you're struggling with insomnia or just looking for a more restful night, Sleeper has you covered.
 
-**Here are some ideas to get you started:**
+## Meet the Devoursity Team
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 1. Johanes Raphael Nandaputra - Hacker
+### 2. Melissa Lau - Hipster
+### 3. Richard - Hustler
+### 4. Aldi Fahluzi Muharam - Hacker
+
+Happy sleeping!
